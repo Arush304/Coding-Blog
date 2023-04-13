@@ -180,3 +180,6 @@ div.gallery {
   font-size: 30px;
 }
 
+.column-row{
+  width: 330px !important;
+}
